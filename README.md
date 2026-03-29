@@ -16,6 +16,6 @@
   
 ## 相关
 - [🌞如何早起🌞](https://github.com/haeob/HowToEarlyRise)
-- - [muafi:：一个动态的浮动图片工具☁️🥰可自定义图片和碰撞音效🎵](https://github.com/haeob/muafi)
+- [muafi:：一个动态的浮动图片工具☁️🥰可自定义图片和碰撞音效🎵](https://github.com/haeob/muafi)
 
   
