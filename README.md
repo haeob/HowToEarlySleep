@@ -66,7 +66,8 @@
 - 欢迎贡献哦。
 - 如果有的话，Pr 到`Card`目录下即可。（暂且这样）
 
-
+## TODO
+- [ ] 整理和上传。
 
 ## 相关
 - [🌞如何早起🌞](https://github.com/haeob/HowToEarlyRise)
