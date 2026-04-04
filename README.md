@@ -72,6 +72,7 @@
 ## 相关
 - [🌞如何早起🌞](https://github.com/haeob/HowToEarlyRise)
 - [muafi:：一个动态的浮动图片工具☁️🥰可自定义图片和碰撞音效🎵](https://github.com/haeob/muafi)
+  - 可以试试放上提醒你早睡的图片，来在电脑桌面提醒你早睡。
 
 
 
